@@ -45,5 +45,4 @@ it can be safelyconcluded that the product is a highly efficient GUI based
 component. This application isworking properly and meeting to all user requirements.
 This component can be easily plugged in many other systems.
 
-Developed By Rahul Patidar.
-NIT Raipur Student.
+
